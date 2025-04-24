@@ -1,0 +1,57 @@
+themes:
+- risks and limitations of algorithms
+	- addiction (think social media)
+	- inequality/ social bias (think credit scoring/ insurance/facial recog)
+	- overcompensation (think EDI in hiring)
+	- popularity vs. actual/ informative value (think personalized news feeds)
+	- autonomous vehicles (discrimination, moral bias)
+	- advertisements across the web (invasion of privacy)
+	- recommendations categorising users (e-commerce & entertainment)
+	
+- downstream effects of bias in algorithms
+	- mental health
+	- reinforcing of bad habits
+
+- definition of harm
+	- how it can be calculated & measured
+	- calculate different harm senarios via causal modelling
+	- what is always missed out when modelling
+	- difficult to measure
+
+
+breakdown of attitudes:
+	- mental attitudes
+		- addiction (bad habits)
+		- unhealthy dependency on others opinions (eg. self-image issues)
+	- social attitudes
+		- social bias
+		- stereotypes
+	- political attitudes
+		- voting
+		- polarization on certain issues
+		- passiveness in the face of fake news
+		
+
+elliot: algorithmic influence on mental health & personal attitudes
+- the bad habits theme
+- addiction on social media
+- overconsumption/ overspending in e-commerce & entertainment
+- mental health & self-image
+
+me: algorithmic influence on social and political attitudes
+- social bias & stereotypes - cultural vs. scientific interpretation
+- polarization/ politicization of certain issues - echo chambers across the web
+- measures poorly defined -> cultural/ethical/personal "bias"
+- popularity vs. actual/ informative value (think personalized news feeds & deep fakes and what we consider trustworthy information now vs before the internet)
+
+resources:
+https://ebookcentral.proquest.com/lib/exeter/reader.action?docID=3339732&ppg=183
+- breakdown of different parts of algorithms and the inherent bias stemming from their structure
+- useful for talking about similarities between algorithms in different domains (conceptual level - need to use examples to make points about human impact)
+https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.science.org%2Fdoi%2F10.1126%2Fscience.abp9364&data=05%7C02%7Ctk472%40exeter.ac.uk%7C6bf180a157d94a88ad8c08dd5be6e86b%7C912a5d77fb984eeeaf321334d8f04a53%7C0%7C0%7C638767769466044800%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=JrqZq7UbG%2FXK4Kc3bHZUOO4m%2F8Z8Y9jXBtkaAaUXbmc%3D&reserved=0
+- case study on algorithm used in social media and showed less time spent online (addiction point) using reverse-chronologically ordered feeds
+- over 3 months study showed little effect on issue polarization, affective polarization, political knowledge
+https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-023-06297-w&data=05%7C02%7Ctk472%40exeter.ac.uk%7Cd5944f0dac024aeca3c508dd5be80117%7C912a5d77fb984eeeaf321334d8f04a53%7C0%7C0%7C638767774172738252%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BMEZ18R2ezBn99173xMLayCUl5YTy1ASrbKJLMwnOFk%3D&reserved=0
+- prevalence of echo-chambers on social media and how they inform voters opinions - study on 2020 US election
+- multi-wave field experiment -> reducing exposure to certain content but did not yield "measurable effects on eight preregistered attitudinal measures"
+- general alternative argument against effect of algorithms on social/ political attitudes
